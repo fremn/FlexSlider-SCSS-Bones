@@ -1,4 +1,8 @@
-FlexSlider-SCSS
+FlexSlider SCSS
 ===============
 
-FlexSlider v2.0 SCSS
+Rewritten base CSS for [FlexSlider v2.0](http://www.woothemes.com/flexslider) to gel with [Bones v1.25](http://themble.com/bones/)
+
+By no means is this file perfect, I've simply converted all CSS to nested SCSS and used Bones / Compass mixins where possible.
+
+Feel free to fork and fix where you see fit!

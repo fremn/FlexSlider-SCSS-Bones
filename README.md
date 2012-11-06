@@ -9,8 +9,8 @@ Feel free to fork and fix where you see fit!
 
 ###Instructions
 
-* **Option 1)** Clone the `/library` directory and replace your Bones v1.25 default `style.scss` (and add the FlexSlider v2.0 files to `/js`)
-* **Option 2)** Add the code below to `style.scss` and manually add the individual files to your /library directory
+* **Option 1)** Clone the `/library` directory and add to your Bones theme directly
+* **Option 2)** Add the code below to `style.scss` and manually add the individual files to your `/library` directory
 
 `// styles in flexslider.scss`
 
